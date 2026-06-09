@@ -1,7 +1,7 @@
-# Wispr Flow — Teardown, Scratchpad & Transforms
+# Wispr Flow ÿ Teardown, Scratchpad & Transforms
 
-A product teardown of [Wispr Flow](https://wisprflow.ai), the voice dictation company, along with scratchpad notes and transform explorations.
+Scratchpad and Transforms of [Wispr Flow](https://wisprflow.ai), ripped apart.
 
 ## Contents
 
-- `Ripped.pdf` — the teardown deck.
+- `Ripped.pdf` ÿ the teardown deck.
